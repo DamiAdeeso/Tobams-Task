@@ -34,6 +34,6 @@ This initial release sets the foundation for further enhancements. I am eager to
 
 For an in-depth guide on leveraging the features of the Your Image API, please refer to the initial API documentation available at [API Documentation URL].
 
-I am excited about the opportunity to discuss the technical aspects of this release and to learn more about the challenges and goals of the Tobams team during our interview.
+I am excited about the opportunity to discuss the technical aspects of this release in this next stage.
 
 [API Documentation URL]: https://www.postman.com/altimetry-candidate-2079200/workspace/tobams-task/api/df32a427-32fb-4c23-98cc-6ec2fc0a4656
