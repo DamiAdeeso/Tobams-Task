@@ -3,7 +3,7 @@ import mongoose from 'mongoose'
 const importSchema = new mongoose.Schema({
   fileName: {
     type: String,
-    required: true
+    //required: true
   },
   secureUrl: {
     type: String,
